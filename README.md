@@ -1,0 +1,2 @@
+# Codeingame
+Codeingame puzzle solutions
